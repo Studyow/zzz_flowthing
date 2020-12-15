@@ -4,7 +4,7 @@
         <nav class="nav-extended indigo darken-2">
             <div class="nav-content">
                 <router-link :to="{ name: 'Index' }">
-                    <span class="nav-title">Navbar/Logo</span>
+                    <span class="nav-title">Logo</span>
                 </router-link>
                 <a class="btn-floating btn-large waves-effect halfway-fab waves-light red">
                     <router-link :to="{ name: 'AddCookie' }">
